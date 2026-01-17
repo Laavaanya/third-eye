@@ -20,19 +20,20 @@ responsible for detecting the existence of the object.
 
 <img width="617" height="452" alt="image" src="https://github.com/user-attachments/assets/4acb7a59-612d-4cea-a1a2-26a388bc1437" />
 
-Configuration:
+
+CONFIGURATION:
 
 
 <img width="461" height="348" alt="image" src="https://github.com/user-attachments/assets/f64474e8-2926-4e26-8f6e-79c6943d8035" />
 
 
-Model:
+MODEL:
 
 
 <img width="963" height="1280" alt="image" src="https://github.com/user-attachments/assets/b9722e01-18f2-4db4-98b1-a1eb34b12f33" />
 
 
-Output:
+OUTPUT:
 
 
 <img width="418" height="457" alt="image" src="https://github.com/user-attachments/assets/4868fb47-0f4c-4430-b5e7-b1569f0de21a" />
